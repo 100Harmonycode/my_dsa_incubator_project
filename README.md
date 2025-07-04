@@ -25,7 +25,7 @@ This repository showcases two data analysis projects completed as part of the **
  **Rating Distribution**  
  **Revenue Estimation by Category**  
  **Products per Price Range Bucket**  
- **Rating vs Discount % **  
+ **Rating vs Discount %**  
  **Products with <1,000 Reviews**  
  **Highest Discount by Category**  
  **Top 5 Products by Weighted Rating & Reviews**
